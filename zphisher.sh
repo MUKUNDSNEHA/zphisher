@@ -1,9 +1,9 @@
 #!/bin/bash
 
-##   Zphisher 	: 	Automated Phishing Tool
-##   Author 	: 	TAHMID RAYAT 
+##   DARKLINK 	: 	Automated Phishing Tool
+##   Author 	: 	LOVELY HACKER
 ##   Version 	: 	2.1
-##   Github 	: 	https://github.com/htr-tech
+##   Github 	: 	https://github.com/MUKUNDSNEHA
 
 ##   THANKS TO :
 ##   Aditya Shakya - https://github.com/adi1090x
@@ -89,7 +89,7 @@
 ##    The precise terms and conditions for copying, distribution and
 ##    modification follow.
 ##
-##      Copyright (C) 2021  HTR-TECH (https://github.com/htr-tech)
+##      Copyright (C) 2021  LOVELYHACKER (https://github.com/MUKUNDSNEHA)
 ##
 
 
@@ -155,7 +155,7 @@ banner() {
 		${ORANGE}      | |                                
 		${ORANGE}      |_|                ${RED}Version : 2.1
 
-		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by htr-tech (tahmid.rayat)${WHITE}
+		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by LOVELY HACKER (MUKUNDSNEHA)${WHITE}
 	EOF
 }
 
